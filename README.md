@@ -1,3 +1,1 @@
-# DSA-Daily-Challenge- 
-A daily challenge repository containing solutions to DSA problems from various platforms. Focused on logic building, efficiency, and clean code.
-i have solved gfg daily question and upload on git_hub
+A daily DSA challenge repository containing solutions Problems along with implementations of core Data Structures and Algorithms in C++. This repository focuses on problem-solving, logic building, optimized solutions, and understanding the internal working of data structures such as Linked Lists, Stacks, Queues, Trees, Graphs, and more.
